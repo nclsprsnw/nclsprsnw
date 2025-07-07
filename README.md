@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Nicolas!
 - 👀 I'm deeply interested in cutting-edge tech.
-- 🌱 I'm currently working on exciting projects in Machine Learning, Deep Learning, and Reinforcement Learning.
+- 🌱 I'm currently working on exciting projects in **Machine Learning**, **Deep Learning**, and Reinforcement Learning.
 - 💞️ Always eager to learn and collaborate on interesting topics!
 
 <!---
