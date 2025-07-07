@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nicolas
-- 👀 I’m interested in cloud tech
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on interesting topics
+- 👋 Hi, I'm Nicolas!
+- 👀 I'm deeply interested in cutting-edge tech.
+- 🌱 I'm currently working on exciting projects in Machine Learning, Deep Learning, and Reinforcement Learning.
+- 💞️ Always eager to learn and collaborate on interesting topics!
 
 <!---
 nclsprsnw/nclsprsnw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
